@@ -16,7 +16,7 @@ body{
 	padding: 30px;
 	border: 1px solid #eeeeee;
 	border-radius: 10px;
-	background-color: #003b5b;
+	background-color: #660000;
 }
 h1{
 	margin-bottom: 10px;
@@ -37,8 +37,8 @@ textarea{
 }
 #submit{
 	border: none;
-	background-color: orangered;
-	color: white;
+	background-color: #E7DCA5;
+	color: black;
 	width: 200px;
 	margin-top: 10px;
 	border-radius: 5px;
